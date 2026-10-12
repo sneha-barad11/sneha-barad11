@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sneha Barad 👋
 
-<!--
-**sneha-barad11/sneha-barad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer passionate about Python, Machine Learning, and AI-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+- **Languages:** Python, Java, C, PHP, Dart
+- **Frameworks & Tools:** Flutter, Android Studio, VS Code, Git & GitHub
+- **Domains of Interest:** Artificial Intelligence, Machine Learning, Mobile App Development
+
+---
+
+### 🚀 Featured Projects
+- **JARVIS AI Assistant:** An intelligent desktop/voice assistant built with Python to automate tasks and interact using voice commands.
+
+---
+
+###  📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sneha-barad-006600397)
