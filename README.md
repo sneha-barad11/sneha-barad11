@@ -5,7 +5,7 @@ Aspiring Software Engineer passionate about Python, Machine Learning, and AI-dri
 ---
 
 ### 🛠 Tech Stack & Skills
-- **Languages:** Python, Java, C, PHP, Dart
+- **Languages:** Python, React,Java,flutter
 - **Frameworks & Tools:** Flutter, Android Studio, VS Code, Git & GitHub
 - **Domains of Interest:** Artificial Intelligence, Machine Learning, Mobile App Development
 
