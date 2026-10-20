@@ -17,7 +17,7 @@ Aspiring Software Engineer passionate about Python, Machine Learning, and AI-dri
 ---
 
 ###  📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sneha-barad-006600397)
+- [LinkedIn](https://www.linkedin.com/in/snehabarad)
 
 - -
 ###  [🤖 JARVIS AI Assistant](https://github.com/sneha-barad11/Jarvis-Virtual-Assistant):
